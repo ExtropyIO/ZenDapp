@@ -82,7 +82,11 @@ Without people submitting designs and an audience of voters picking a winning de
 With the correct economic incentives it should be possible to give the application the best possible chance of succeeding.
 
 We need to make it as easy as possible for a designer to submit an entry and to limit the amount of time that they have to spend creating an entry: most of the functionality present, just the UX needs to be completed to. 
- 
+
+## Useful resources
+### Voting contract resources
+* [ENS](https://github.com/ethereum/ens) and how it uses sealed bids (and a process to reveal them)
+* [alexvandesande's Discussion on "Auto revealing of sealed bids"](https://github.com/ethereum/EIPs/pull/704). 
 
 # truffle-init-webpack
 Example webpack project with Truffle. Includes contracts, migrations, tests, user interface and webpack build pipeline.
